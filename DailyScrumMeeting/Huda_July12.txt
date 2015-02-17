@@ -1,0 +1,9 @@
+Today we did:
+1. classify each new methods inside the objects
+2. add Command class in crcCards
+3. complete the method for "ls" including recursion case
+4. add "man" and "rm" method
+5. fixed "cd" method for changing directory that has a file content in it
+6. update "echo" method 
+7. start writing testcases
+

@@ -1,0 +1,6 @@
+Today we did:
+- finished rm method
+- fixed mv method
+- clean up JShell
+- JUnit test
+

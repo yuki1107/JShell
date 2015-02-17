@@ -1,0 +1,19 @@
+Class name: Directory
+Parent class: FileDir
+Responsibilities:
+* has field variables: directory path
+* implement make a new directory command (mkdir DIR)
+* change the path to the directory specified (cd DIR)
+* list all the files and directories in the current directory (ls)
+* print the working full path of the directory (pwd)
+* move the files to the new specified location (mv OLDPATH NEWPATH)
+* copy files (cp OLDPATH NEWPATH) 
+* remove the directory itself and its content (rm)
+* find files in the directory containing regular expression (find REGEX)
+
+
+Collaborators:
+* File
+* JShell
+* FileDir
+

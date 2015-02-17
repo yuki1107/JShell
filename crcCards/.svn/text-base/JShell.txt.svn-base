@@ -1,0 +1,16 @@
+Class name: JShell
+Parent class:
+Responsibilities:
+* interpret user input
+* implement a shell program
+* work with files and directories
+* terminate the shell program
+* get files from URL address (get URL)
+* display manual for command
+* redirect output string to a file
+
+Collaborators:
+* Directory
+* File
+* FileDir
+

@@ -1,0 +1,8 @@
+Class name: CommandDocs
+Parent class:
+Responsibilities:
+* stores the documentation of each command prompt in the JShell
+
+Collaborators:
+* JShell
+

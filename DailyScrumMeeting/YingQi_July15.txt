@@ -1,0 +1,5 @@
+Today we did:
+- finished the find, remove and get methods
+- fixed problems for the commands: cp, mkdir, and mv
+- did some JUnit TestCase
+- working on "> OUTFILE" for different commands

@@ -1,0 +1,10 @@
+Class name: FileDir
+Parent class: none
+Responsibilities:
+* search a file given the name and the path
+* convert the contents to a string
+* remove directory or file
+
+Collaborators:
+* Directory
+* File

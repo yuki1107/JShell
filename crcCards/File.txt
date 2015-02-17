@@ -1,0 +1,19 @@
+Class name: File
+Parent class: FileDir
+Responsibilities:
+* has field variables: name, date created, size, directory location,   permissions, author etc 
+* display the content of a file (cat FILE)
+* display an input string (echo STRING)
+* create a file with an input string  
+* overwrite the content of an existing file (echo STRING > FILE)
+* append an input string to the content of a file (echo STRING >> FILE)
+* remove an existing file (rm PATH)
+* find regular expression given inside a file (find REGEX)
+
+
+Collaborators:
+Directory
+JShell
+FileDir
+
+
